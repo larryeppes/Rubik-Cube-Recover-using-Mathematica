@@ -4,4 +4,4 @@
 
 另外再看一看时间戳, 这已经是 13 年前的代码了, 我老的好快...
 
-![timestamp](Y:/Desktop/%E9%AD%94%E6%96%B9%E7%9A%84Mathematica%20%E7%A8%8B%E5%BA%8F/timestamp.png)
+![timestamp](./timestamp.png)
